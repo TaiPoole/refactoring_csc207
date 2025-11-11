@@ -1,3 +1,4 @@
+d4b3948 Task 2.2 Refactored volume logic in statement method for more clarity
 efd63d5 Task 2.1 Refactored statement method for more clarity
 4fd0889 Task 1.2 Added Git log for tracking purposes
 d96287f Task 1.1 Refactored project code according to CheckStyle
