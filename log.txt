@@ -1,3 +1,4 @@
+61ef4d4 Task 2.4 again Final step in refactoring, cleaned up statement into a few liner
 1529bb6 Task 2.4 Final step in refactoring, cleaned up statement into a few liner
 b9947a9 Task 2.3 Refactored formatting logic in statement method for more clarity
 d4b3948 Task 2.2 Refactored volume logic in statement method for more clarity

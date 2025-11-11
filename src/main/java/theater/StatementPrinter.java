@@ -39,10 +39,11 @@ public class StatementPrinter {
      */
     public String statement() {
 
-        getStringBuilder().append(String.format("Amount owed is %s%n",
+        final StringBuilder result = getStringBuilder();
+        result.append(String.format("Amount owed is %s%n",
                 usd(getTotalAmount())));
-        getStringBuilder().append(String.format("You earned %s credits%n", getVolumeCredits()));
-        return getStringBuilder().toString();
+        result.append(String.format("You earned %s credits%n", getVolumeCredits()));
+        return result.toString();
     }
 
     private int getTotalAmount() {
