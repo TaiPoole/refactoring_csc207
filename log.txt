@@ -1,3 +1,4 @@
+4fd0889 Task 1.2 Added Git log for tracking purposes
 d96287f Task 1.1 Refactored project code according to CheckStyle
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
